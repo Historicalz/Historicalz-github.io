@@ -1,0 +1,95 @@
+*,
+html{
+    margin: 0;
+    padding: 0;
+
+}
+
+/* HAL1 START */
+body{
+    background-color:blanchedalmond;
+}
+
+.main-box{
+    height:100vh
+}
+
+div{background-color:;}
+.aselole{
+    background-color: black;
+    width: 100%;
+    height:9vh
+    
+}
+.ul-navbar{
+    background-color:grey;
+    height:50px;
+    display:flex;
+    justify-content:center;
+}
+
+.li-navbar{
+    color: black;
+    font-size:35px;
+    list-style-type: none;
+    padding: 5px;
+    margin:5px
+}
+.li-navbar:hover{
+    background-color:white;
+    transition: 2s ease-in-out;
+    transition-delay: 0s;
+    border-radius: 10px;
+}
+
+.a-navbar{
+    color:black;
+    text-decoration: none;
+    font-size
+}
+
+.div-content{
+    background-color: grey;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    height:80vh
+}
+.a-content{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 270px;
+    width: 300px;
+    border-radius: 50px;
+
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.img-content{
+    width: 75%;
+}
+.p-content{
+    color: white;
+    text-decoration: none;
+    
+}
+
+
+.footer-box{
+    background-color: grey;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+
+.h1-footer{
+    font-size:30px;
+    height:10vh
+
+}
+/* HAL 1 END */
+
